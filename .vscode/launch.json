@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Computer",
+            "request": "launch",
+            "mainClass": "Computer",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorOverload",
+            "request": "launch",
+            "mainClass": "ConstructorOverload",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SirConsOver",
+            "request": "launch",
+            "mainClass": "SirConsOver",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch constructorclass",
+            "request": "launch",
+            "mainClass": "constructorclass",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch default_method_interface",
+            "request": "launch",
+            "mainClass": "default_method_interface",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenfromarange",
+            "request": "launch",
+            "mainClass": "evenfromarange",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch exception",
+            "request": "launch",
+            "mainClass": "exception",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch fabonacci",
+            "request": "launch",
+            "mainClass": "fabonacci",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch hierarchicalinheritance",
+            "request": "launch",
+            "mainClass": "hierarchicalinheritance",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch inputCMD",
+            "request": "launch",
+            "mainClass": "inputCMD",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch method",
+            "request": "launch",
+            "mainClass": "method",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch methodOverload",
+            "request": "launch",
+            "mainClass": "methodOverload",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiarray",
+            "request": "launch",
+            "mainClass": "multiarray",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch multicatch",
+            "request": "launch",
+            "mainClass": "multicatch",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch multilevelinheritance",
+            "request": "launch",
+            "mainClass": "multilevelinheritance",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch primenumber",
+            "request": "launch",
+            "mainClass": "primenumber",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumavgcmd",
+            "request": "launch",
+            "mainClass": "sumavgcmd",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch threadRunnable",
+            "request": "launch",
+            "mainClass": "threadRunnable",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch threadmethods",
+            "request": "launch",
+            "mainClass": "threadmethods",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch throwkeyword",
+            "request": "launch",
+            "mainClass": "throwkeyword",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch throws1",
+            "request": "launch",
+            "mainClass": "throws1",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch wrapperfirst",
+            "request": "launch",
+            "mainClass": "wrapperfirst",
+            "projectName": "Java programs_1eee2a2b"
+        },
+        {
+            "type": "java",
+            "name": "Launch wrappermethod",
+            "request": "launch",
+            "mainClass": "wrappermethod",
+            "projectName": "Java programs_1eee2a2b"
+        }
+    ]
+}
